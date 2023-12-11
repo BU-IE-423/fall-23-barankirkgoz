@@ -8,3 +8,11 @@ I am Baran Kırkgöz and this is my journal for IE423 fall term.
 [here](https://BU-IE-423.github.io/fall-23-barankirkgoz/odev.pdf) is the pdf for project part 1.
 
 [here](https://BU-IE-423.github.io/fall-23-barankirkgoz/odev.Rmd) is the Rmd file for project part 1.
+
+## Project Part 2
+[here](https://BU-IE-423.github.io/fall-23-barankirkgoz/part2.html) is the html for the project part 2.
+
+[here](https://BU-IE-423.github.io/fall-23-barankirkgoz/part2.pdf) is the pdf for project part 2.
+
+[here](https://BU-IE-423.github.io/fall-23-barankirkgoz/part2.Rmd) is the Rmd file for project part 2.
+
